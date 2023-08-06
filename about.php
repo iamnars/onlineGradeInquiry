@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>STI Online Grade Inquiry | STI College - General Santos City</title>
+<title>STI Online Grade | STI College - General Santos City</title>
 <link rel="stylesheet" href="css/main.css" type="text/css" media="screen" />
 </head>
 <body>
